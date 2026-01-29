@@ -1,0 +1,16 @@
+{
+    "name": "MGS.TextSignal.Sample",
+    "rootNamespace": "MGS.TextSignal.Sample",
+    "references": [
+        "GUID:458fff5c5a7f4674e91115c8e4c87925"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
