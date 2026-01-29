@@ -21,8 +21,8 @@
 
 ## Usage
 
-1. "Add Text Signal Emmiter" from context menu on Signal Track.
-2. Select the emmiter and set the "Signal" field.
+1. "Add Text Signal Emitter" from context menu on Signal Track.
+2. Select the emitter and set the "Signal" field.
 3. Add TextSignalReceiver component to the gameobject that with SignalReceiver component.
 4. Register event to TextSignalReceiver component.
 
