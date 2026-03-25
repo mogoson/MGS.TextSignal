@@ -39,7 +39,7 @@ MonoBehaviour:
   m_Time: 3
   m_Retroactive: 0
   m_EmitOnce: 0
-  m_Asset: {fileID: 11400000, guid: 3464bd78ca6959c48a7ef33a3cae9d48, type: 2}
+  m_Asset: {fileID: 11400000, guid: 2baf7b2dfafe5c746af6fb7dc032973e, type: 2}
   signal: CapsuleActive
 --- !u!114 &-142776357300936274
 MonoBehaviour:
@@ -385,7 +385,7 @@ MonoBehaviour:
   m_Time: 1
   m_Retroactive: 0
   m_EmitOnce: 0
-  m_Asset: {fileID: 11400000, guid: 3464bd78ca6959c48a7ef33a3cae9d48, type: 2}
+  m_Asset: {fileID: 11400000, guid: 2baf7b2dfafe5c746af6fb7dc032973e, type: 2}
   signal: CubeActive
 --- !u!114 &6397173325080740069
 MonoBehaviour:
@@ -414,5 +414,5 @@ MonoBehaviour:
   m_Time: 2
   m_Retroactive: 0
   m_EmitOnce: 0
-  m_Asset: {fileID: 11400000, guid: 3464bd78ca6959c48a7ef33a3cae9d48, type: 2}
+  m_Asset: {fileID: 11400000, guid: 2baf7b2dfafe5c746af6fb7dc032973e, type: 2}
   signal: SphereActive

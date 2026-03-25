@@ -16,6 +16,7 @@ using UnityEngine.Playables;
 
 namespace MGS.TextSignal
 {
+    [AddComponentMenu("MGS/TextSignal/Text Signal Receiver")]
     public class TextSignalReceiver : MonoBehaviour, INotificationReceiver
     {
         public event Action<string> OnSignalNotify;
