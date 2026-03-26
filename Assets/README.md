@@ -26,6 +26,10 @@
 3. Add TextSignalReceiver component to the gameobject that with SignalReceiver component.
 4. Register event to TextSignalReceiver component.
 
+## Samples
+
+- Unity --> Window --> Package Manager --> Packages-Mogoson --> Text Signal --> Samples.
+
 ---
 
 Copyright © 2026 Mogoson.	mogoson@outlook.com
