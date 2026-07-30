@@ -1,8 +1,8 @@
 {
-    "name": "MGS.TextSignal",
-    "rootNamespace": "MGS.TextSignal",
+    "name": "MGS.Timeline.Sample",
+    "rootNamespace": "MGS.Timeline.Sample",
     "references": [
-        "GUID:f06555f75b070af458a003d92f9efb00"
+        "GUID:458fff5c5a7f4674e91115c8e4c87925"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

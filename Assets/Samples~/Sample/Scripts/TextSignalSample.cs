@@ -13,7 +13,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MGS.TextSignal.Sample
+namespace MGS.Timeline.Sample
 {
     public class TextSignalSample : MonoBehaviour
     {

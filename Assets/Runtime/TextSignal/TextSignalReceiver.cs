@@ -14,7 +14,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Playables;
 
-namespace MGS.TextSignal
+namespace MGS.Timeline
 {
     [AddComponentMenu("MGS/TextSignal/Text Signal Receiver")]
     public class TextSignalReceiver : MonoBehaviour, INotificationReceiver

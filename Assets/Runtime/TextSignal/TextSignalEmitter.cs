@@ -12,7 +12,7 @@
 
 using UnityEngine.Timeline;
 
-namespace MGS.TextSignal
+namespace MGS.Timeline
 {
     public class TextSignalEmitter : SignalEmitter
     {
