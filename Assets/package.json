@@ -1,7 +1,7 @@
 {
-    "name": "com.mgs.textsignal",
+    "name": "com.mgs.timeline",
     "version": "1.0.0",
-    "displayName": "Text Signal",
+    "displayName": "Timeline",
     "description": "Emitter and Receiver for text signal with Unity Timeline.",
     "unity": "2021.3",
     "keywords": [
